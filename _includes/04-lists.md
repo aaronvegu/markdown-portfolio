@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## List of my favorite things ✔️
+- Books
+- Go to the movies
+- Learn about computers
